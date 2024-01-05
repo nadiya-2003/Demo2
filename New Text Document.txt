@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class RelaionalOperators
+{
+public static void main(String args[])
+{
+Scaner scan =new Scanner(System.in);
+System.out.println("Enter First Number:");
+int num1=scan.nextInt();
+System.out.println("Enter econd Number:");
+int num2=scan.nextInt();
